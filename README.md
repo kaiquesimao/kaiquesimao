@@ -1,2 +1,2 @@
-## 👋 Hello! Welcome to my Github profile.
+## 👋 Hello!
 ### My name is Kaique Simão.
