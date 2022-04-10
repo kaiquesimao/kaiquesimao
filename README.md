@@ -1,14 +1,26 @@
-## 👋 Hello!
+## 👋 Summary about me
 
-My name is Kaique Simão, Brazilian 22y old, transhumanist and lover of programming.
+I'm Kaique Simão.
 
-Currently working on Siemens - Intern of System Automation.
+I'm 22 years old.
 
-Studying systems analysis and development.
+I follow the philosophy of Transhumanism.
 
-## Objetive:
+I love programming, especially the Mobile stack.
 
-Become a successful mobile dev. Further on, a CTO!
+I like and study a lot about technology and the universe.
+
+My passion is to discover how things work and relate.
+
+I'm a beginner in programming, studying this world since August 2021, and studying the 2nd semester of Analysis and Systems.
+
+I have knowledge and already carry out projects in HTML, CSS, JavaScript (NodeJS, React/React Native), Linux, Git/Github.
+
+Currently specializing in React Native, Firebase and Mobile development technologies.
+
+My goal is to become a great Mobile developer within the next 5 years.
+
+I wish to become CEO following a transhumanist philosophy to develop the evolution of living beings through technology.
 
 ## Knowledge:
 
