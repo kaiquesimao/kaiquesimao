@@ -1,4 +1,4 @@
-## 👋 Summary about me
+## Summary about me:
 
 I'm Kaique Simão.
 
