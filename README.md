@@ -1,26 +1,26 @@
 ## Summary about me:
 
-I'm Kaique Simão.
+Hi, I'm Kaique Simão.
 
 I'm 22 years old.
 
 I follow the philosophy of Transhumanism.
 
-I love programming, especially the Mobile stack.
+I love programming, especially the Mobile world.
 
 I like and study a lot about technology and the universe.
 
 My passion is to discover how things work and relate.
 
-I'm a beginner in programming, studying this world since August 2021, and studying the 2nd semester of Analysis and Systems.
+I'm a beginner in programming, and studying the 2nd semester of Analysis and Systems Development.
 
 I have knowledge and already carry out projects in HTML, CSS, JavaScript (NodeJS, React/React Native), Linux, Git/Github.
 
 Currently specializing in React Native, Firebase and Mobile development technologies.
 
-My goal is to become a great Mobile developer within the next 5 years.
+My goal is to become a great Mobile developer in the next 5 years.
 
-I wish to become CEO following a transhumanist philosophy to develop the evolution of living beings through technology.
+I wish to become CTO following a transhumanist philosophy to develop the evolution of life through technology.
 
 ## Knowledge:
 
