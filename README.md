@@ -12,7 +12,7 @@ My passion is to discover how things work and relate.
 
 I already carries out several projects using HTML, CSS, JavaScript/Typescript (React/Angular) technologies on Frontend and Java on Backend.
 
-Use Git and Github to code version control for personal projects and Azure Devops at work.
+Git and Github to code version control for personal projects and Azure Devops at work.
 
 I am proficient in OS Windows, and currently studying Linux and its distributions.
 
