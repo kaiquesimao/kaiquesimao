@@ -4,17 +4,17 @@ Hi, I'm Kaique Simão. Much pleasure!
 
 I follow the philosophy of Transhumanism.
 
-I love programming, especially the Mobile world.
+I love programming, especially the Mobile Stack.
 
 I like and study a lot about technology and the universe.
 
 My passion is to discover how things work and relate.
 
-He already carries out several projects using HTML, CSS, JavaScript/Typescript (React/Angular) technologies on the Frontend and Java on the Backend.
+I already carries out several projects using HTML, CSS, JavaScript/Typescript (React/Angular) technologies on Frontend and Java on Backend.
 
-Use Git and Github to version control code for personal projects and Azure Devops at work.
+Use Git and Github to code version control for personal projects and Azure Devops at work.
 
-I am proficient in OS Windows, and I am currently studying Linux and its distributions.
+I am proficient in OS Windows, and currently studying Linux and its distributions.
 
 Right now I'm specializing in Java with Spring Boot and Angular with Typescript.
 
@@ -22,7 +22,8 @@ My goal is to become a great Full Stack & Mobile developer in the next 5 years.
 
 ## Knowledge:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40"/>
+
 
 ## Specializing:
 
