@@ -12,7 +12,7 @@ Minha paixão é descobrir como as coisas funcionam e se relacionam.
 
 Já realizei diversos projetos utilizando diversas tecnologias de Front end, Back end e Mobile
 
-Tenho proficiência no S.O Windows, e atualmente estudo Linux e suas distribuições.
+Sou proficiente no S.O Windows, e atualmente estudo Linux e suas distribuições.
 
 Neste momento estou me especializando em Kotlin.
 
