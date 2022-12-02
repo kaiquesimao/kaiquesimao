@@ -10,28 +10,7 @@ Gosto e estudo bastante sobre tecnologia e o universo.
 
 Minha paixão é descobrir como as coisas funcionam e se relacionam.
 
-Já realizei diversos projetos utilizando as tecnologias:
-
-Front end: 
--HTML
--CSS
--JavaScript
--Typescript 
--Angular
--React
-
-Backend:
--Java com SpringBoot, Spring MVC, JPA, Hibernate
--Kotlin
-
-Mobile:
--Kotlin
--Flutter/Dart
-
-Controle e versionamento de código:
--Git
--Github
--Azure DevOps
+Já realizei diversos projetos utilizando diversas tecnologias de Front end, Back end e Mobile
 
 Tenho proficiência no S.O Windows, e atualmente estudo Linux e suas distribuições.
 
@@ -47,22 +26,18 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plai
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
-
-
 ## Especializando em:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/> <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/> <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>                                                                                                              
-
-
-### Contatos:
-
-<a href = "mailto:kaique.gabriel.me@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/kaique-simao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
 
 <div>
 <a href="https://github.com/kaiquesimao">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquesimao&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+## Contatos:
+
+<a href = "mailto:kaique.gabriel.me@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/kaique-simao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
