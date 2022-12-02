@@ -1,33 +1,59 @@
-## Summary about me:
+## Sobre mim:
 
-Hi, I'm Kaique Simão. Much pleasure!
+Olá, sou Kaique Simão. Muito prazer!
 
-I follow the philosophy of Transhumanism.
+Sigo a filosofia do Transumanismo.
 
-I love programming, especially the Mobile Stack.
+Amo programação, especialmente o mundo Mobile.
 
-I like and study a lot about technology and astronomy.
+Gosto e estudo bastante sobre tecnologia e o universo.
 
-My passion is to discover how things work and relate.
+Minha paixão é descobrir como as coisas funcionam e se relacionam.
 
-I already carries out several projects using HTML, CSS, JavaScript/Typescript (React/Angular) technologies on Frontend and Java on Backend.
+Já realizei diversos projetos utilizando as tecnologias:
 
-Git and Github to code version control for personal projects and Azure Devops at work.
+Front end: 
+-HTML
+-CSS
+-JavaScript
+-Typescript 
+-Angular
+-React
 
-I am proficient in OS Windows, and currently studying Linux and its distributions.
+Backend:
+-Java com SpringBoot, Spring MVC, JPA, Hibernate
+-Kotlin
 
-Right now I'm specializing in Java with Spring Boot and Angular with Typescript.
+Mobile:
+-Kotlin
+-Flutter/Dart
 
-My goal is to become a great Full Stack & Mobile developer in the next 5 years.
+Controle e versionamento de código:
+-Git
+-Github
+-Azure DevOps
 
-## Knowledge:
+Tenho proficiência no S.O Windows, e atualmente estudo Linux e suas distribuições.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40"/>
+Neste momento estou me especializando em Kotlin.
+
+Minha meta é me tornar um grande desenvolvedor Full Stack & Mobile nos próximos 5 anos.
+
+## Conhecimentos:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40"/> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 
-## Specializing:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+## Especializando em:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>                                                                                                              
 
 
 ### Contatos:
