@@ -6,7 +6,7 @@ I follow the philosophy of Transhumanism.
 
 I love programming, especially the Mobile Stack.
 
-I like and study a lot about technology and the universe.
+I like and study a lot about technology and astronomy.
 
 My passion is to discover how things work and relate.
 
