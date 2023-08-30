@@ -2,29 +2,50 @@
 
 Olá, sou Kaique Simão. Muito prazer!
 
-Sigo a filosofia do Transumanismo.
+Sou um entusiasta da filosofia do Transumanismo e acredito no poder da tecnologia para melhorar a vida humana.
 
-Amo programação, especialmente o mundo Mobile.
+Tenho uma paixão pela programação, especialmente no mundo Mobile, e estou sempre em busca de novos desafios e conhecimentos na área.
 
-Gosto e estudo bastante sobre tecnologia e o universo.
+Além disso, sou um grande estudioso e entusiasta da tecnologia e do universo como um todo. Adoro descobrir como as coisas funcionam e entender suas interações.
 
-Minha paixão é descobrir como as coisas funcionam e se relacionam.
+Trabalho com uma variedade de tecnologias em diferentes áreas:
 
-Já realizei diversos projetos utilizando diversas tecnologias de Front end, Back end e Mobile
+Frontend:
+-JavaScript
+-TypeScript
+-Angular
+-React
+-Vue
 
-Sou proficiente no S.O Windows, e atualmente estudo Linux e suas distribuições.
+Backend:
+-Java com SpringBoot, Spring MVC, JPA e Hibernate
+-Kotlin
 
-Neste momento estou me especializando em Kotlin.
+Mobile:
+-Kotlin
 
-Minha meta é me tornar um grande desenvolvedor Full Stack & Mobile nos próximos 5 anos.
+Tenho experiência em controle e versionamento de código utilizando Git, GitHub e Azure DevOps.
+
+Quanto a sistemas operacionais, tenho habilidades tanto em Windows utilizando o WSL quanto em Linux/Ubuntu.
+
+Tenho como meta me tornar um desenvolvedor FullCycle nos próximos 5 anos, buscando sempre aprimorar minhas habilidades e conhecimentos.
+
+Caso queira conhecer mais sobre meus projetos, você pode acessar meu perfil no GitHub: https://github.com/kaiquesimao
+
+Estou sempre em busca de novas oportunidades e desafios na área de desenvolvimento, então sinta-se à vontade para entrar em contato comigo. Será um prazer trocar ideias e contribuir para projetos interessantes.
 
 ## Conhecimentos:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> <img
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> <img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40"/> <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 ## Especializando em:
 
