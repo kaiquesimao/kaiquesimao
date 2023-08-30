@@ -30,8 +30,6 @@ Quanto a sistemas operacionais, tenho habilidades tanto em Windows utilizando o 
 
 Tenho como meta me tornar um desenvolvedor FullCycle nos próximos 5 anos, buscando sempre aprimorar minhas habilidades e conhecimentos.
 
-Caso queira conhecer mais sobre meus projetos, você pode acessar meu perfil no GitHub: https://github.com/kaiquesimao
-
 Estou sempre em busca de novas oportunidades e desafios na área de desenvolvimento, então sinta-se à vontade para entrar em contato comigo. Será um prazer trocar ideias e contribuir para projetos interessantes.
 
 ## Conhecimentos:
