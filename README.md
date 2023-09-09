@@ -10,19 +10,29 @@ Além disso, sou um grande estudioso e entusiasta da tecnologia e do universo co
 
 Trabalho com uma variedade de tecnologias em diferentes áreas:
 
-Frontend:
+## Frontend:
+
 -JavaScript
+
 -TypeScript
+
 -Angular
+
 -React
+
 -Vue
 
-Backend:
--Java com SpringBoot, Spring MVC, JPA e Hibernate
+## Backend:
+
+-Java com Spring
+
 -Kotlin
 
-Mobile:
+## Mobile:
+
 -Kotlin
+
+##
 
 Tenho experiência em controle e versionamento de código utilizando Git, GitHub e Azure DevOps.
 
