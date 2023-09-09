@@ -8,43 +8,10 @@ Tenho uma paixão pela programação, especialmente no mundo Mobile, e estou sem
 
 Além disso, sou um grande estudioso e entusiasta da tecnologia e do universo como um todo. Adoro descobrir como as coisas funcionam e entender suas interações.
 
-Trabalho com uma variedade de tecnologias em diferentes áreas:
-
-## Frontend:
-
--JavaScript
-
--TypeScript
-
--Angular
-
--React
-
--Vue
-
-## Backend:
-
--Java com Spring
-
--Kotlin
-
-## Mobile:
-
--Kotlin
-
-##
-
-Tenho experiência em controle e versionamento de código utilizando Git, GitHub e Azure DevOps.
-
-Quanto a sistemas operacionais, tenho habilidades tanto em Windows utilizando o WSL quanto em Linux/Ubuntu.
-
-Tenho como meta me tornar um desenvolvedor FullCycle nos próximos 5 anos, buscando sempre aprimorar minhas habilidades e conhecimentos.
-
-Estou sempre em busca de novas oportunidades e desafios na área de desenvolvimento, então sinta-se à vontade para entrar em contato comigo. Será um prazer trocar ideias e contribuir para projetos interessantes.
+Trabalho com uma variedade de tecnologias em diferentes áreas do mundo da programação
 
 ## Conhecimentos:
 
- 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/> <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img
@@ -55,18 +22,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
-## Especializando em:
+Tenho experiência em controle e versionamento de código utilizando Git, GitHub e Azure DevOps.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/> <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/> <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
+Quanto a sistemas operacionais, tenho habilidades tanto em Windows utilizando o WSL quanto em Linux/Ubuntu.
 
-<div>
-<a href="https://github.com/kaiquesimao">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquesimao&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+Tenho como meta me tornar um desenvolvedor FullCycle nos próximos 5 anos, buscando sempre aprimorar minhas habilidades e conhecimentos.
 
-## Contatos:
+Estou sempre em busca de novas oportunidades e desafios na área de desenvolvimento, então sinta-se à vontade para entrar em contato comigo. Será um prazer trocar ideias e contribuir para projetos interessantes.
+
+## Contato:
 
 <a href = "mailto:kaique.gabriel.me@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kaique-simao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
