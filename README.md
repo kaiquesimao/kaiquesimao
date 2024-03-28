@@ -26,8 +26,6 @@ Tenho experiência em controle e versionamento de código utilizando Git, GitHub
 
 Quanto a sistemas operacionais, tenho habilidades tanto em Windows utilizando o WSL quanto em Linux/Ubuntu.
 
-Tenho como meta me tornar um desenvolvedor FullCycle nos próximos 5 anos, buscando sempre aprimorar minhas habilidades e conhecimentos.
-
 Estou sempre em busca de novas oportunidades e desafios na área de desenvolvimento, então sinta-se à vontade para entrar em contato comigo. Será um prazer trocar ideias e contribuir para projetos interessantes.
 
 ## Contato:
